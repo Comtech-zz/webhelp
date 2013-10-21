@@ -1,0 +1,4 @@
+<dummy>
+  <!--EXM-21177 Default language for HTML, automatically added by integrator-->
+  <param name="DEFAULTLANG" expression="${args.default.language}" if="args.default.language"/>
+</dummy>
